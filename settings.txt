@@ -1,0 +1,5 @@
+rbxversion=5e79a2caa8534595
+celeryversion=0.1.016
+dllversion=0.1.016
+obsolete=0
+updateurl="https://github.com/TheSeaweedMonster/Lucid/raw/main/Celery.bin"
